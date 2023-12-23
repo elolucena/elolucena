@@ -1,7 +1,7 @@
 ### Oie! Sou Eloísa Lucena :D 👋
 
 
-### Computer Science Student 2/8
+
 ### 📫 How to reach me: eloisasslucena@gmail.com
 <!--
 **elolucena/elolucena** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
